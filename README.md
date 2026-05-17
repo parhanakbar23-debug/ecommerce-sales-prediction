@@ -1,7 +1,7 @@
 # 🛒 E-Commerce Sales Prediction\
 
 Nama : parhan Akbar
-Nim  : 301240030
+Nim  : 301240038
 
 
 Sistem prediksi penjualan E-Commerce menggunakan Machine Learning dan Deep Learning berbasis Python Flask.
